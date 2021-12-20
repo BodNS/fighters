@@ -8,6 +8,7 @@ export function createFighterPreview(fighter, position) {
   });
 
   // todo: show fighter info (image, name, health, etc.)
+  
 
   return fighterElement;
 }
