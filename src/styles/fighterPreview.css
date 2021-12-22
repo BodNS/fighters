@@ -11,3 +11,14 @@
 .fighter-preview___left {
   align-items: flex-start;
 }
+
+.fighter-prewiew__txt {
+  font-size: 34px;
+  color: white;
+
+}
+
+fighter-preview___img {
+  width: 100px;
+  height: 200px;
+}
